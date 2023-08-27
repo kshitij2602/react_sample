@@ -1,0 +1,23 @@
+{
+  "name": "react_sample",
+  "version": "1.0.0",
+  "description": "nodeapplication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitij2602/react_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitij2602/react_sample/issues"
+  },
+  "homepage": "https://github.com/kshitij2602/react_sample#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
