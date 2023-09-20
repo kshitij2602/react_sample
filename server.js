@@ -5,7 +5,7 @@ const port = 8081; //port number
 http.createServer((request, response)=>{
     // callback func
     response.writeHead(200, {"Content-Type": "text/html"});
-    response.write("<h1>Hello world, server started, hi go to hell </h1>");
+    response.write("<h1>Hello world, server started, </h1>");
     response.end();
 })
 .listen(port, ()=>{
